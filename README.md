@@ -1,10 +1,8 @@
----
 
 ````markdown
-
 ## STRING
 
-1. Quyidagi kod natijasi nima?
+### 1. Quyidagi kod natijasi nima?
 ```python
 s = "Python"
 print(s[-1])
@@ -15,19 +13,27 @@ B) n
 C) o
 D) Xato
 
-2. `len("Salom")` natijasi?
-   A) 4
-   B) 5
-   C) 6
-   D) Xato
+---
 
-3. Qaysi metod stringni bo‘laklaydi?
-   A) split()
-   B) join()
-   C) replace()
-   D) strip()
+### 2. `len("Salom")` natijasi?
 
-4. Quyidagi kod natijasi?
+A) 4
+B) 5
+C) 6
+D) Xato
+
+---
+
+### 3. Qaysi metod stringni bo‘laklaydi?
+
+A) split()
+B) join()
+C) replace()
+D) strip()
+
+---
+
+### 4. Quyidagi kod natijasi?
 
 ```python
 print("abc".replace("a", "z"))
@@ -38,11 +44,14 @@ B) zbc
 C) abz
 D) Xato
 
-5. Stringlar Python’da:
-   A) O‘zgaruvchan
-   B) O‘zgarmas
-   C) Indekssiz
-   D) Tartibsiz
+---
+
+### 5. Stringlar Python’da:
+
+A) O‘zgaruvchan
+B) O‘zgarmas
+C) Indekssiz
+D) Tartibsiz
 
 ---
 
