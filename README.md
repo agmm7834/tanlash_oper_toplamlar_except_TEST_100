@@ -1,0 +1,1 @@
+# tanlash_oper_toplamlar_except_TEST_100
